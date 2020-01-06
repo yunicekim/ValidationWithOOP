@@ -1,0 +1,19 @@
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.exe.config
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.csprojAssemblyReference.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.Properties.Resources.resources
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.csproj.GenerateResource.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.YKAssignment5.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.exe.config
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\bin\Debug\YKAssignment5.pdb
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.csprojAssemblyReference.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.YKAssignment5.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.Properties.Resources.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.csproj.GenerateResource.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKAssignment5\YKAssignment5\obj\Debug\YKAssignment5.pdb
